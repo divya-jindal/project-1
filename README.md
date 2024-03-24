@@ -27,5 +27,11 @@ The per capita income at the city, state, and county level is found using the Ce
 
 ## Mental Health vs. Heart Disease
 
- The data regarding the percentage of adults with poor mental health for more than two weeks is found at the state level. The summary statistics for each state's percentages is found. The mental health percentage for each state is plotted to determine the states with the lowest and highest mental health percentage. The states with a descending rate of heart disease is also found to find commonalities between the two. 
+ The data regarding the percentage of adults with poor mental health for more than two weeks is found at the state level. The summary statistics for each state's percentages is found. The mental health percentage for each state is plotted to determine the states with the lowest and highest mental health percentage. The states with a descending rate of heart disease is also found to find commonalities between the two. The five states with the highest mental health percentages are: Delaware, Ohio, Louisiana, Mississippi, and Michigan. The five states with the lowest mental health percentages are: Hawaii, South Dakota, Minnesota, North Dakota, and Alaska. 
+
+## Limitations
+
+The biggest limitation is the fact that only 500 cities are used to draw conclusions about each state and the country as a whole. Analyzing only a few cities per state to draw generalizations about the entire state seems a bit naive. It is difficult to confidentally say that any of the conclusions drawn at the state level are close to the truth. Also, the data only contained information about the largest cities in the United States, which contain metropolitan areas that generally have higher incomes. Essentially, the range of income data for the 500 cities will be skewed to the larger side and may not represent the true income disparity throughout the United States. With regards to the mental health data, the data values are very subjective. People have different interpretations about what they mean by a poor mental health state, which can influence the data value significantly.   
+
+
 
